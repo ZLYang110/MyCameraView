@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <com.zlylib.titlebarlib.ActionBarCommon
+        android:id="@+id/abc"
+        style="@style/ActionBar.Common"
+        app:ab_immersion="immersed"
+        app:ab_statusBarVisible="auto"
+        app:ab_titleBarHeight="50dp"
+        app:abc_rightTextPaddingLeft="0dp"
+        app:abc_rightTextPaddingRight="15dp"
+        app:abc_leftIconRes="@drawable/ic_back"
+        app:abc_titleText="照片" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+        android:horizontalSpacing="2dp"
+        android:verticalSpacing="2dp"
+        />
+</LinearLayout>

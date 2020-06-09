@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="colorDisableHintIcon">#86000000</color>
+    <color name="white">#ffffff</color>
+    <color name="fourth">#999999</color>
+    <color name="item_select">#f2821e</color>
+    <color name="item_unselect">#ffffff</color>
+    <color name="fun_camera_primary_color">#09BE5D</color>
+    <color name="fun_dialog_background">#ffffff</color>
+    <color name="fun_dialog_sub_text_color">#737373</color>
+    <color name="transparent">#00000000</color>
+</resources>
