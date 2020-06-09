@@ -11,10 +11,10 @@
 
 # 引用开源库
 
-[视频播放 JiaoZiVideoPlayer](https://github.com/Jzvd/JiaoZiVideoPlayer)
-[图片加载 glide](https://github.com/bumptech/glide)
-[RecyclerView](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
-[eventbus](https://github.com/greenrobot/EventBus)
+- [视频播放 JiaoZiVideoPlayer](https://github.com/Jzvd/JiaoZiVideoPlayer)
+- [图片加载 glide](https://github.com/bumptech/glide)
+- [RecyclerView](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+- [eventbus](https://github.com/greenrobot/EventBus)
 
 
 
